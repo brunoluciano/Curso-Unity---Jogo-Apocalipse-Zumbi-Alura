@@ -3,7 +3,10 @@ guid: d978f33878912db42aa3581885d6c4b4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Bala: {instanceID: 0}
+  - CanoDaArma: {instanceID: 0}
+  - SomDeTiro: {fileID: 8300000, guid: 039a6f1274311a0429fe857dc9bfd32a, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
